@@ -22,7 +22,7 @@ The following **stretch** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-![Walkthrough](walkthrough.mp4)
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
