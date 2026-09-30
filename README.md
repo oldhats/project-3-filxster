@@ -22,9 +22,7 @@ The following **stretch** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-![Walkthrough GIF](walkthrough.gif)
-
-*(Note: Add your recorded walkthrough GIF to the repository and link it here.)*
+![Walkthrough](walkthrough.mp4)
 
 ## Notes
 
