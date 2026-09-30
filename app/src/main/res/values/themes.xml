@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Project3Filxster" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:windowBackground">@color/backgroundDark</item>
+    </style>
+
+    <style name="Theme.Project3Filxster" parent="Base.Theme.Project3Filxster" />
+</resources>
